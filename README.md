@@ -22,10 +22,10 @@ images.githubusercontent.com/106823798/181648317-af3678e6-0472-4b16-8fa4-980f480
 ![roomtypes2](https://user-images.githubusercontent.com/106823798/181648419-7c688af7-5b9f-4608-bace-85452b850e47.png)
 
 
-.![RoomBooking2](https://user-images.githubusercontent.com/106823798/181648395-24d4b573-e405-450c-97a2-4c36139c380f.png)
+.
 ![signup](https://user-images.githubusercontent.com/106823798/181648103-c3d247ff-21cc-4059-9575-fb082c08d725.png)
 
-
+![RoomBooking2](https://user-images.githubusercontent.com/106823798/181648395-24d4b573-e405-450c-97a2-4c36139c380f.png)
 The ER diagraim of the project is attached below
 ![UML_Admin](https://user-images.githubusercontent.com/106823798/181647964-1350a430-902e-463a-ab59-c0e815a00c3a.PNG)![UML_Customer](https://user-images.githubusercontent.com/106823798/181647977-f2e4e5a8-d0d9-42cf-9511-32b1347498f5.PNG)
 
